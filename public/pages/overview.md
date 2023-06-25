@@ -2,87 +2,88 @@
 
 ## Summary
 
-Senior Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
+I have completed a comprehensive training course focused on practical experience and acquiring key skills for future career development. The program consisted of various projects that allowed me to apply theoretical knowledge to real-world scenarios, building a concrete skill set demonstrated through a portfolio of completed projects. The program covered a range of topics, including front-end development, HTML & CSS implementation, mobile website integration with CSS animations, JavaScript programming, web languages proficiency, accessibility, search tool development, debugging and testing, user needs analysis, React development, data visualization, API integration, and code refactoring. Throughout the course, I had the support of experienced professionals who provided guidance and mentorship, fostering my progress and enhancing my learning journey. The completion of these projects has equipped me with valuable skills and expertise in web development, problem-solving, project management, and collaboration within an agile environment. I am now ready to apply my knowledge and skills in a professional setting to contribute to impactful projects.
 
 
 ## Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Land surveyor** @ [Seral](https://www.seral-tp.fr/) _(Jan 2019 - Mai 2021)_
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
-- Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+intervene before and after work in three areas:
+- Geodetection and georeferencing of underground networks
+- Asbestos and PAH (Polycyclic Aromatic Hydrocarbons) diagnostics on pavements and building materials
+- Quality control of backfilled trench compaction.
 
 &nbsp;
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+**Director of Operations** @ [STIDEst](https://www.stidest.dz/) _(Jan 2017 - Dec 2018)_
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
-- Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
+- Operational Planning: Developing and implementing operational plans and strategies for efficient waste treatment processes.
+- Process Optimization: Continuously improving and optimizing waste treatment processes to maximize efficiency and compliance with environmental regulations.
+- Compliance and Safety: Ensuring compliance with environmental regulations and implementing safety protocols to maintain a safe working environment.
+- Resource Management: Managing and allocating resources effectively, including personnel, equipment, and materials, to support smooth operations.
+- Staff Leadership and Development: Leading and guiding the team involved in waste treatment operations, providing support and fostering a positive work environment.
+- Quality Assurance: Implementing and monitoring quality control measures to ensure proper waste treatment and adherence to quality standards.
+- Stakeholder Management: Collaborating with internal and external stakeholders, such as regulatory agencies and clients, to ensure smooth operations and address any concerns.
 
 &nbsp;
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
+**Construction site supervisor** @ [Daewoo engineering & construction](https://m.daewooenc.com/eng/main) _(Mar 2015 - Dec 2016)_
 
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+- Supervision of Construction Activities: Overseeing and managing construction activities on the site to ensure they are carried out according to specifications, safety guidelines, and project timelines.
+- Safety Compliance: Ensuring compliance with safety regulations and protocols on the construction site. Conducting regular safety inspections, promoting a culture of safety, and addressing any safety concerns or incidents that arise.
+- Project Planning and Coordination: Collaborating with project managers to develop and implement project plans, including scheduling, resource allocation, and sequencing of construction activities.
+- Team Management: Supervising and coordinating the work of construction crews, subcontractors, and other personnel on the site to maintain productivity, quality, and safety standards.
+- Communication and Collaboration: Serving as a point of contact and maintaining effective communication with project stakeholders, including contractors, suppliers, clients, and regulatory authorities. Providing progress updates and addressing any concerns or issues raised by stakeholders.
 
 ## Education
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0
+`2022-2023` [OpenClassRooms](https://openclassrooms.com/)
+- **B.Sc.** JavaScript React Developer
+- Courses: HTML, CSS, JavaScript, ReactJS, UI/UX Design.
 
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
-- **Extension program** in Electrical Engineering
-- Courses: Operating Systems
-- GPA: 4.3/4.3
+`2013-2015` [University of Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html)
+- **M.Sc.** in Petroleum Engineering
+- Courses: Enhanced oil recovery, Drilling and completion, Logging, Well performance, Surface Tension and Capillarity, Non conventional oil & gas.
+- GPA: 3.7/4.0
 
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
+`2012-2013` [University of Paul Cezanne](https://www.univ-amu.fr/)
+- **B.Sc.** in Process Engineering
+- Courses: Fluid mechanics, Mass transfer, Heat transfer, Reactor science, Instrumental analysis.
+- GPA: 3.3/4.0
 
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
-- **Extension program** in Information Management 
-- Courses: Data Structures
-- GPA: 4.0/4.0
-
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
+`207–2010` [University of Mentouri](https://www.umc.edu.dz/index.php/fr/)
+- **B.Sc.** in Chemical Engineering
+- Courses: Thermodynamics, Chemistry kinetics, Electro-chemistry, Organic chemistry, Materials science.
+- GPA: 3.0/4.0
 
 ## Skills
 
-### General Tech Stacks
-- Architecture Design
-- Desktop App Development
+## General Tech Stacks
 - Web Development (Frontend & Backend)
 
-### Programming languages
-- C# .NET
-- Python
+## Programming languages
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+- Node JS
+  - Express.js
 
-## Certificates
-- Certified Public Accountant (Taiwan)
+## Databases
+- MongoDB
 
-## Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
+## Cloud
+- Azure
+- GCP
+- Heroku
+- Render
+
+## Vcs
+- Git
 
 ## Languages
-**English**: C1
-**Chinese**: Native
+- **English**: TOEIC 900
+- **French**: Bilingual
+- **Arabic**: Bilingual
+- **Derja**: Native
+- **Spanish**: basic
+- **Russian**: basic
