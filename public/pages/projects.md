@@ -3,6 +3,9 @@
 ## [FishEye](https://iridescent-axolotl-ea3945.netlify.app/) 🔗
 - Photographer web platform
 
+## [Very simple table lib](https://www.npmjs.com/package/very-simple-table-lib) 🔗
+- Library npm
+
 ## [LesPetitsPlats](https://mosmid.github.io/lespetitsplats/) 🔗
 - Cooking recipe website
 

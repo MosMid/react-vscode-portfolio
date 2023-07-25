@@ -8,7 +8,7 @@ import {
   Typography,
 } from "@mui/material";
 import React, { useEffect } from "react";
-import logo from "../../static/favicon.png";
+import logo from "../../static/favicon.jpg";
 import { useLocation } from "react-router-dom";
 import { links } from "./links";
 
@@ -38,7 +38,7 @@ export default function Home({ setSelectedIndex }: Props) {
       <Grid item xs={3}>
         <Stack direction={{ xs: "column", sm: "row-reverse" }} spacing={2}>
           <Box display="flex" sx={{ justifyContent: "center" }}>
-            <img src={logo} width="100px" alt="logo" />
+            <img src={logo} width="200px" alt="logo" style={{objectFit: 'cover', borderRadius: '50%', marginTop: '-40px', marginLeft: '30px'}}/>
           </Box>
           <Box>
             <Grid

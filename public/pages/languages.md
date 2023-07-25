@@ -1,5 +1,5 @@
 # 💬 Languages
-- **English**: TOEIC 900
+- **English**: Fluent (TOEIC 900)
 - **French**: Bilingual
 - **Arabic**: Bilingual
 - **Derja**: Native
