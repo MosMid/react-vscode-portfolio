@@ -4,7 +4,7 @@
 - Photographer web platform
 
 ## [Very simple table lib](https://www.npmjs.com/package/very-simple-table-lib) 🔗
-- Library npm
+- npm library
 
 ## [LesPetitsPlats](https://mosmid.github.io/lespetitsplats/) 🔗
 - Cooking recipe website
