@@ -13,7 +13,7 @@
 - Courses: Fluid mechanics, Mass transfer, Heat transfer, Reactor science, Instrumental analysis.
 - GPA: 3.3/4.0
 
-`207–2010` [University of Mentouri](https://www.umc.edu.dz/index.php/fr/)
+`2007–2010` [University of Mentouri](https://www.umc.edu.dz/index.php/fr/)
 - **B.Sc.** in Chemical Engineering
 - Courses: Thermodynamics, Chemistry kinetics, Electro-chemistry, Organic chemistry, Materials science.
 - GPA: 3.0/4.0
