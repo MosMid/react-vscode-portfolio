@@ -4,5 +4,3 @@
 - **French**: Bilingual
 - **Arabic**: Bilingual
 - **Derja**: Native
-- **Spanish**: basic
-- **Russian**: basic

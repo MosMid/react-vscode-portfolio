@@ -108,5 +108,3 @@ intervene before and after work in three areas:
 - **French**: Bilingual
 - **Arabic**: Bilingual
 - **Derja**: Native
-- **Spanish**: basic
-- **Russian**: basic

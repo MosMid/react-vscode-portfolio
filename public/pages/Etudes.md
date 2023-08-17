@@ -14,7 +14,7 @@
 - Cours : Mécanique des fluides, Transfert de masse, Transfert de chaleur, Science des réacteurs, Analyse instrumentale.
 - Moyenne: 14.42/20
 
-`207–2010` [Université Mentouri](https://www.umc.edu.dz/index.php/fr/)
+`2007–2010` [Université Mentouri](https://www.umc.edu.dz/index.php/fr/)
 - Licence en Génie Chimique
 - Cours : Thermodynamique, Cinétique chimique, Électrochimie, Chimie organique, Science des matériaux.
 - GPA: 13.01/20
