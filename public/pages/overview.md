@@ -72,6 +72,7 @@ I have completed a comprehensive training course focused on practical experience
 ### [Booki](https://mosmid.github.io/OCR/) 🔗
 - A simple website for vacation booking
 
+
 ## Experience
 
 **Land surveyor** @ [Seral](https://www.seral-tp.fr/) _(Jan 2019 - Mai 2021)_
