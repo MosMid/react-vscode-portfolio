@@ -43,6 +43,7 @@ I have completed a comprehensive training course focused on practical experience
 - MongoDB
 - SQL
 
+<<<<<<< HEAD
 ## Cloud
 - Azure
 - GCP
@@ -52,6 +53,8 @@ I have completed a comprehensive training course focused on practical experience
 ## Vcs
 - Git
 
+=======
+>>>>>>> caa495d7a29664550ea272f5b2f168f128156626
 ## Personal projects
 
 ### [FishEye](https://iridescent-axolotl-ea3945.netlify.app/) 🔗
@@ -72,7 +75,10 @@ I have completed a comprehensive training course focused on practical experience
 ### [Booki](https://mosmid.github.io/OCR/) 🔗
 - A simple website for vacation booking
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> caa495d7a29664550ea272f5b2f168f128156626
 ## Experience
 
 **Land surveyor** @ [Seral](https://www.seral-tp.fr/) _(Jan 2019 - Mai 2021)_
@@ -104,6 +110,18 @@ intervene before and after work in three areas:
 - Team Management: Supervising and coordinating the work of construction crews, subcontractors, and other personnel on the site to maintain productivity, quality, and safety standards.
 - Communication and Collaboration: Serving as a point of contact and maintaining effective communication with project stakeholders, including contractors, suppliers, clients, and regulatory authorities. Providing progress updates and addressing any concerns or issues raised by stakeholders.
 
+<<<<<<< HEAD
+=======
+## Cloud
+- Azure
+- GCP
+- Heroku
+- Render
+
+## Vcs
+- Git
+
+>>>>>>> caa495d7a29664550ea272f5b2f168f128156626
 ## Languages
 - **English**: Fluent (TOEIC 900)
 - **French**: Bilingual
