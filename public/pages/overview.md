@@ -2,7 +2,7 @@
 
 ## Summary
 
-I have completed a comprehensive training course focused on practical experience and acquiring key skills for future career development. The program consisted of various projects that allowed me to apply theoretical knowledge to real-world scenarios, building a concrete skill set demonstrated through a portfolio of completed projects. The program covered a range of topics, including front-end development, HTML & CSS implementation, mobile website integration with CSS animations, JavaScript programming, web languages proficiency, accessibility, search tool development, debugging and testing, user needs analysis, React development, data visualization, API integration, and code refactoring. Throughout the course, I had the support of experienced professionals who provided guidance and mentorship, fostering my progress and enhancing my learning journey. The completion of these projects has equipped me with valuable skills and expertise in web development, problem-solving, project management, and collaboration within an agile environment. I am now ready to apply my knowledge and skills in a professional setting to contribute to impactful projects.
+I have completed a comprehensive training course focused on practical experience and acquiring key skills for future career development. The program consisted of various projects that allowed me to apply theoretical knowledge to real-world scenarios, building a concrete skill set demonstrated through a portfolio of completed projects. This experience covered both front and back-end. Guided by experts, I'm well-equipped for contributing to projects, combining web development skills, problem-solving, and project management expertise in agile environments.
 
 
 ## Experience
