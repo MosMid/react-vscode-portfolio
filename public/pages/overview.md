@@ -3,11 +3,6 @@
 ## Summary
 
 I have completed a comprehensive training course focused on practical experience and acquiring key skills for future career development. The program consisted of various projects that allowed me to apply theoretical knowledge to real-world scenarios, building a concrete skill set demonstrated through a portfolio of completed projects. This experience covered both front and back-end. Guided by experts, I'm well-equipped for contributing to projects, combining web development skills, problem-solving, and project management expertise in agile environments.
-<<<<<<< HEAD
-
-=======
->>>>>>> 31d6853436f1705537fbb5ae3c237f651805ee5a
-
 
 ## Experience
 
