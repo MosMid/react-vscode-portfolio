@@ -29,7 +29,7 @@ export default function Home({ setSelectedIndex }: Props) {
 
   const handleDownloadPDF = () => {
     const link = document.createElement("a");
-    link.href = "../../../public/cvfr.pdf";
+    link.href = process.env.PUBLIC_URL + "cvfr.pdf";
     link.download = "cvfr.pdf";
     link.click();
   };

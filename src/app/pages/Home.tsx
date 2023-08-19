@@ -29,7 +29,8 @@ export default function Home({ setSelectedIndex }: Props) {
 
   const handleDownloadPDF = () => {
     const link = document.createElement("a");
-    link.href = "../../../public/cven.pdf";
+    link.href = process.env.PUBLIC_URL + "cven.pdf";
+    link.target = "_blank";
     link.download = "cven.pdf";
     link.click();
   };
