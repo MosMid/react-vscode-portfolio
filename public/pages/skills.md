@@ -4,13 +4,16 @@
 - Web Development (Frontend & Backend)
 
 ## Programming languages
-- JavaScript/TypeScript
-  - React.js
+- JavaScript
+- TypeScript
+- Reactjs
+- Angular
 - Node JS
-  - Express.js
+- Php
 
 ## Databases
 - MongoDB
+- SQL
 
 ## Cloud
 - Azure

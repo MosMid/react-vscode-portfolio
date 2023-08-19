@@ -11,6 +11,7 @@ import React, { useEffect } from "react";
 import logo from "../../static/favicon.jpg";
 import { useLocation } from "react-router-dom";
 import { links } from "./links-fr";
+import "./style.css";
 
 interface Props {
   setSelectedIndex: React.Dispatch<React.SetStateAction<number>>;
@@ -25,6 +26,13 @@ export default function Home({ setSelectedIndex }: Props) {
   useEffect(() => {
     document.title = process.env.REACT_APP_NAME!;
   }, [pathname]);
+
+  const handleDownloadPDF = () => {
+    const link = document.createElement("a");
+    link.href = "../../../public/cvfr.pdf";
+    link.download = "cvfr.pdf";
+    link.click();
+  };
 
   return (
     <Grid
@@ -80,6 +88,10 @@ export default function Home({ setSelectedIndex }: Props) {
                     </Link>
                   </Tooltip>
                 ))}
+                <div className="download">
+                  <i className="fa-regular fa-circle-down cv" aria-hidden="true" onClick={handleDownloadPDF}/>
+                  <span className="cvtext">Telecharger CV</span>
+                </div>
               </Stack>
             </Grid>
           </Box>
