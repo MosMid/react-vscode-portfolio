@@ -15,3 +15,43 @@
     color: white;
     border: 2px solid white;
 }
+
+.cv{
+    font-size: 22px;
+    padding: 9px;
+    border-radius: 20px;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.cv:hover{
+    background-color: rgba(128, 128, 128, 0.178);
+}
+.download {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+  }
+  
+.cvtext {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgba(190, 190, 190, 0.37);
+    color: #fff;
+    text-align: center;
+    border-radius: 3px;
+    padding: 3px;
+    font-size: 11px;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 55px;
+    left: -40px;
+}
+
+.download:hover .cvtext {
+    visibility: visible;
+}

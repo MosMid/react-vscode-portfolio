@@ -31,7 +31,7 @@
     position: absolute;
     z-index: 1;
     top: 55px;
-
+    left: -40px;
 }
 
 .download:hover .cvtext {
