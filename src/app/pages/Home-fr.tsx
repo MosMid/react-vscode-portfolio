@@ -46,6 +46,7 @@ export default function Home({ setSelectedIndex }: Props) {
             <Grid
               display="flex"
               justifyContent={{ xs: "center", sm: "flex-start" }}
+              className="nom"
             >
               <Typography variant="h3">{process.env.REACT_APP_NAME}</Typography>
             </Grid>
