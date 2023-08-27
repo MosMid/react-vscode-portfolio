@@ -56,10 +56,6 @@
     visibility: visible;
 }
 
-.MuiGrid-root{
+.nom{
     text-align: center;
-}
-
-.MuiGrid-root h3{
-    margin: auto;
 }
