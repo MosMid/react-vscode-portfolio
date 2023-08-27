@@ -55,3 +55,11 @@
 .download:hover .cvtext {
     visibility: visible;
 }
+
+.MuiGrid-root{
+    text-align: center;
+}
+
+.MuiGrid-root h3{
+    margin: auto;
+}
