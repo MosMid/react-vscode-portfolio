@@ -14,7 +14,7 @@ export const links = [
   {
     index: 1,
     title: "Find me on LinkedIn",
-    href: "https://fr.linkedin.com/in/abdelhamid-bensegueni-73b69993",
+    href: "https://fr.linkedin.com/in/mehdi-bensegueni-73b69993",
     icon: <FaLinkedin />,
   },
   {
